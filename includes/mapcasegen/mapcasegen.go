@@ -1,7 +1,7 @@
 package mapcasegen
 
 import (
-	"github.com/gohobby/deepcopy/includes/jenutils"
+	"github.com/boriwo/deepcopy/includes/jenutils"
 
 	. "github.com/dave/jennifer/jen"
 )

@@ -6,9 +6,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/gohobby/deepcopy/includes/jenutils"
-	"github.com/gohobby/deepcopy/includes/mapcasegen"
-	"github.com/gohobby/deepcopy/includes/slicecasegen"
+	"github.com/boriwo/deepcopy/includes/jenutils"
+	"github.com/boriwo/deepcopy/includes/mapcasegen"
+	"github.com/boriwo/deepcopy/includes/slicecasegen"
 
 	. "github.com/dave/jennifer/jen"
 )
