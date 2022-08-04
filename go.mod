@@ -1,4 +1,4 @@
-module github.com/gohobby/deepcopy
+module github.com/boriwo/deepcopy
 
 go 1.17
 
